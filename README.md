@@ -2,9 +2,10 @@
 The Flask Mega-Tutorial by Miguel Grinberg
 
 1. Create venv
-2. install Flask pip install flask
+2. install Flask: <strong>pip install flask</strong>
+3. install flask-wtf: <strong>pip install flask-wtf</strong>
 3. Set Flask App variable in terminal:
-  Windows:
-    set FLASK_APP=microblog.py
-  Linux/Mac
-    export FLASK_APP=microblog.py
+<ul>
+    <li>Windows: <strong>set FLASK_APP=microblog.py</strong></li>
+    <li>Linux/Mac: <strong>export FLASK_APP=microblog.py</strong></li>
+</ul>
