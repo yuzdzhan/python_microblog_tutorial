@@ -13,4 +13,5 @@ The Flask Mega-Tutorial by Miguel Grinberg
     <li>Install sqlalchemy: <strong>pip install flask-sqlalchemy</strong>
     <li>Install migrations: <strong>pip install flask-migrate</strong></li>
     <li>Create migration repository: <strong>flask db init</strong></li>
+    <li>Install flask-login: <strong>pip install flask-login</strong></li>
 </ol>
